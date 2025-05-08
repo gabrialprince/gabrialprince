@@ -29,7 +29,7 @@
 
 ### 📫 Reach Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/gabriel-prince-236303203 )
-- 📧 gabriel@example.com
+- 📧 gabrielprince2k@gmail.com
 - 🐙 [GitHub](https://github.com/gabrialprince)
 
 ---
