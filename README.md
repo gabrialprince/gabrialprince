@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there, I'm Gabriel Prince D
 
-<!--
-**gabrialprince/gabrialprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Computer Science & Engineering  
+💻 Software Developer Intern | ML Enthusiast | AR/VR Explorer  
+📍 India | 🚀 Always learning and building
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- Python, OpenCV, C++  
+- HTML, CSS,  
+- Flutter, Dart, Firebase    
+- Git & GitHub  
+
+---
+
+### 📘 Projects Highlights
+- 📱 **Bill Podu App** – Invoice management using Flutter  
+- 🎬 **Lecture Notes Generator** – Extracts notes from educational videos  
+- 📺 **Netflix Clone** – UI built in HTML & CSS  
+
+---
+
+### 💡 Currently Working On
+- An IoT-based health monitoring system using ESP32 & Raspberry Pi  
+- AI-powered video summarization with Whisper + CLIP models  
+
+---
+
+### 📫 Reach Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/gabriel-prince-236303203 )
+- 📧 gabriel@example.com
+- 🐙 [GitHub](https://github.com/gabrialprince)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
