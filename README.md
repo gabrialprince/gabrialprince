@@ -1,17 +1,17 @@
 # 👋 Hi there, I'm Gabriel Prince D
 
 🎓 Master's Student in Computer Science & Engineering  
-💻 Software Developer Intern | ML Enthusiast | AR/VR Explorer  
+💻 Software Developer Intern | ML Enthusiast   
 📍 India | 🚀 Always learning and building
 
 ---
 
 ### 🛠️ Tech Stack
-- Python, OpenCV, C++  
-- HTML, CSS,  
+- Python, C++ , OpenCV 
+- HTML, CSS  
 - Flutter, Dart, Firebase    
 - Git & GitHub  
-
+- AWS (Studying)
 ---
 
 ### 📘 Projects Highlights
@@ -22,8 +22,8 @@
 ---
 
 ### 💡 Currently Working On
-- An IoT-based health monitoring system using ESP32 & Raspberry Pi  
-- AI-powered video summarization with Whisper + CLIP models  
+- An IoT-based health monitoring system using ESP32 & Ardiuno UNO  
+- AI-powered Personalized video summarization with LLM models  
 
 ---
 
