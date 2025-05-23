@@ -11,7 +11,7 @@
 - HTML, CSS  
 - Flutter, Dart, Firebase    
 - Git & GitHub  
-- AWS (Studying)
+- Cloud (Learning & Experimenting GCP)
 ---
 
 ### 📘 Projects Highlights
