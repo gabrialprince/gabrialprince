@@ -31,7 +31,7 @@
 - 🌐 [LinkedIn](https://www.linkedin.com/in/gabriel-prince-236303203 )
 - 📧 gabrielprince2k@gmail.com
 - 🐙 [GitHub](https://github.com/gabrialprince)
-- 🌐 [Personal Website](https://gabrielprince.in)
+- 🌐 [Personal Website](https://gabrialprince.github.io/Portfolio/)
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
