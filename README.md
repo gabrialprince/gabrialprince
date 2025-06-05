@@ -29,7 +29,7 @@
 ### 📫 Reach Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/gabriel-prince-236303203 )
 - 📧 gabrielprince.work@gmail.com
-- 🐙 [GitHub](https://github.com/gabrialprince)
+- 🐙 [GitHub](https://github.com/ecnirpleirbag)
 - 🌐 [Personal Website](https://ecnirpleirbag.github.io/Portfolio/)
 ---
 
