@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- Python, C++ , OpenCV 
+- Python, C++, OpenCV 
 - HTML, CSS  
 - Flutter, Dart, Firebase    
 - Git & GitHub  
@@ -16,22 +16,21 @@
 
 ### 📘 Projects Highlights
 - 📱 **Bill Podu App** – Invoice management using Flutter  
-- 🎬 **Lecture Notes Generator** – Extracts notes from educational videos  
+- 🎬 **Personalized Video Summay** – Generate video summary for the given videos (Educational Videos)
 - 📺 **Netflix Clone** – UI built in HTML & CSS  
 
 ---
 
 ### 💡 Currently Working On
-- An IoT-based health monitoring system using ESP32 & Ardiuno UNO  
-- AI-powered Personalized video summarization with LLM models  
+- An IoT-based health monitoring system using ESP32 & Ardiuno UNO (Research work)  
 
 ---
 
 ### 📫 Reach Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/gabriel-prince-236303203 )
-- 📧 gabrielprince2k@gmail.com
+- 📧 gabrielprince.work@gmail.com
 - 🐙 [GitHub](https://github.com/gabrialprince)
-- 🌐 [Personal Website](https://gabrialprince.github.io/Portfolio/)
+- 🌐 [Personal Website](https://ecnirpleirbag.github.io/Portfolio/)
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
